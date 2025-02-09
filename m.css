@@ -1,0 +1,14 @@
+body{
+    background-color:azure;
+    margin:auto;
+
+}
+#container{
+    color:blue;
+    text-indent:10px;
+    text-align: left;
+}
+.section{
+    color:red;
+    text-align: left;
+}
